@@ -1,0 +1,19 @@
+﻿{
+  "name": "Bot 7.1",
+  "description": "Bot 7.1.",
+  "env": {
+    "administrador": {darielxd
+      "description": "Usuario",
+      "value": ""
+    },
+    "bot_token": {6290116195:AAGBJt5lkErjIeTswBWFki2cKDDyCQAUW5o
+      "description": "El token del bot",
+      "value": ""
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-python.git"
+    }
+  ]
+}
